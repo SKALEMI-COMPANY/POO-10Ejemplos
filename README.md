@@ -15,14 +15,14 @@ por hora si éstas no superan las 35 horas. Cada hora por encima de 35 se consid
 22 dólares.
 El programa pide las horas del trabajador y devuelve el salario que se le debe pagar.
 Además, el programa debe preguntar si deseamos calcular otro salario, si es así el programa se repite.
-5. Crear el programa asteriscos4 en el que se introduce un número entero y se crea una pirámide de
+5. Crear el programa asteriscos en el que se introduce un número entero y se crea una pirámide de
 asteriscos. Por ejemplo, si se introduce el 6, el resultado sería:
-         *
-        ***
-       *****
-      *******
-     *********
-    ***********
+-          *
+-         ***
+-        *****
+-       *******
+-      *********
+-     ***********
 6. Modificar el ejercicio anterior para que aparezca un rombo.
 7. Crear un programa que escriba dos columnas de números, en la primera se colocan los números del 1 al
 100, en la segunda los números del 100 al 1
@@ -34,7 +34,7 @@ en dos y la tercera de tres.
 1) Salir
 2) Sumatorio
 3) Factorial
-Tras mostrar el menú, el programa debe leer un número del 1 al tres si se elige 1, el programa acaba. Si se
+- Tras mostrar el menú, el programa debe leer un número del 1 al tres si se elige 1, el programa acaba. Si se
 elige 2 se calcula el sumatorio del número, si se elige 3 se calcula la factorial (en ambos casos el programa
 pedirá escribir el número sobre el que se calcula el sumatorio o la factorial). Tras calcular el sumatorio o la
 factorial e indicar el resultado, el programa volverá a mostrar el menú y así sucesivamente.
