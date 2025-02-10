@@ -1,5 +1,5 @@
 # POO-10Ejemplos
-Proyecto práctico de 10 ejemplos con POO para dominar sentencias IF, FOR, FOR EACH, WHILE, DO WHILE y los pilares de la POO (abstracción y encapsulación). Uso educativo, no plagiar. ¡Disfruta aprendiendo! - michaelvinces.skalemi@gmail.com
+Proyecto práctico de 10 ejemplos con POO para dominar sentencias IF, FOR, FOR EACH, WHILE, DO WHILE y los pilares de la POO (abstracción y encapsulación). Uso educativo, no plagiar. ¡Disfruta aprendiendo! - skalemi.michaelvinces@gmail.com
 Ejemplos del Programa
 1. Programa que lea una serie de números por teclado e indique cuál es el mayor.
 2. Crear un programa que lea un número entero y a partir de él cree un cuadrado de asteriscos con ese
